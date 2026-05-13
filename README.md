@@ -30,7 +30,7 @@ Desenvolvedor de Software apaixonado por transformar ideias em soluções reais 
 ---
 
 ### 🔭 O que estou construindo e estudando
-* 🏗️ **No trabalho:** Atuando com arquitetura **NestJS** (Services, Controllers, DTOs), mensageria com **Amazon SQS** e conteinerização com **Docker**.
+* 🏗️ **No trabalho:** Atuando com arquitetura **NestJS** (Services, Controllers, DTOs), comunicação assíncrona com **Amazon SQS** e conteinerização com **Docker**.
 * 🌱 **EcoScore Scanner:** Aplicação web full-stack voltada para sustentabilidade e rastreamento de produtos (alinhado ao ODS 12).
 * 🍽️ **Sistema para Restaurantes:** Desenvolvimento de interface e modelagem de dados JSON focado no painel **Modo Garçom**.
 * 💼 **CRM Customizado:** Desenvolvimento e manutenção de um sistema de CRM completo entregue para um cliente real.
