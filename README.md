@@ -9,22 +9,21 @@
 
 <p align="left">
   <a href="https://www.diegoportella.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/✨_Ver_portfólio-0077B5?style=for-the-badge" alt="Ver portfólio" />
+    <img src="https://img.shields.io/badge/Ver_portfólio-0077B5?style=for-the-badge" alt="Ver portfólio" />
   </a>
 </p>
 
 ## Sobre mim
 
-- 🎓 Graduando em Engenharia de Software na PUC Minas
-- 💼 Desenvolvedor de Software na Coforge (antiga Encora)
+- 🎓 Graduando em <strong>Engenharia de Software</strong> na PUC Minas
+- 💼 <strong>Software Developer Intern</strong> na Coforge
 - 📚 Aprofundando em front-end, microsserviços e arquitetura de software
 - 📍 Belo Horizonte, MG
 
 <img src="./assets/code-typing-bro.png" alt="Ilustração de uma pessoa digitando código" width="300px" align="right">
 
 <p align="left">
-  Trabalho como <strong>Desenvolvedor de Software</strong> na Coforge e curso <strong>Engenharia de Software</strong> na PUC Minas. <br><br>
-  No dia a dia, uso <strong>NestJS</strong> no back-end e <strong>Angular</strong> no front-end. Também venho explorando tecnologias como <strong>Next</strong>, <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>AWS</strong> e <strong>Docker</strong>, aplicando esses conhecimentos no trabalho e em projetos pessoais. <br><br>
+  No dia a dia, uso <strong>NestJS</strong> no back-end e <strong>Angular</strong> no front-end. Também venho explorando tecnologias como <strong>Next.js</strong>, <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>AWS</strong> e <strong>Docker</strong>, aplicando esses conhecimentos no trabalho, faculdade e em projetos pessoais. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
@@ -76,7 +75,3 @@
 ### 🛠️ Ferramentas de desenvolvimento
 
 [![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=postgres,aws,docker,git,github,npm,postman,figma,vercel,vscode)](https://github.com/diegovitorportella)
-
-<p align="center">
-  <sub>Ilustração por <a href="https://storyset.com/" target="_blank">Storyset</a></sub>
-</p>
