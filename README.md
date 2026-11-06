@@ -1,51 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=0077B5&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Eu+sou+Diego+Portella;Software+Developer+Intern;Estudante+de+Engenharia+de+Software;Back-end+com+Node.js+e+TypeScript;Sempre+aprendendo!)](https://github.com/diegovitorportella)
 
-# Olá! Eu sou o Diego 👋
+# Olá, eu sou o Diego!
 
-Desenvolvedor de Software apaixonado por transformar ideias em soluções reais e acessíveis.
+<p align="left">
+  Desenvolvedor de Software, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+  Tenho focado meu trabalho em <strong>Node.js</strong>, <strong>Angular</strong> e <strong>TypeScript</strong>, transformando cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+</p>
 
-### 👨‍💻 Sobre mim
-* 🎓 Estudante de Engenharia de Software pela PUC MINAS e estagiário de desenvolvimento na **Encora**.
-* 🚀 Atualmente focado em aprimorar minhas habilidades em **back-end** e em aplicar as melhores práticas de desenvolvimento de software dentro da minha squad.
-* 📍 Belo Horizonte, MG.
+<p align="left">
+  <a href="https://www.diegoportella.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Ver_portfólio-0077B5?style=for-the-badge" alt="Ver portfólio" />
+  </a>
+</p>
+
+## Sobre mim
+
+- 🎓 Graduando em Engenharia de Software na PUC Minas
+- 💼 Desenvolvedor de Software na Coforge (antiga Encora)
+- 📚 Aprofundando em front-end, microsserviços e arquitetura de software
+- 📍 Belo Horizonte, MG
+
+<img src="./assets/code-typing-bro.png" alt="Ilustração de uma pessoa digitando código" width="300px" align="right">
+
+<p align="left">
+  Trabalho como <strong>Desenvolvedor de Software</strong> na Coforge e curso <strong>Engenharia de Software</strong> na PUC Minas. <br><br>
+  No dia a dia, uso <strong>NestJS</strong> no back-end e <strong>Angular</strong> no front-end. Também venho explorando tecnologias como <strong>Next</strong>, <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>AWS</strong> e <strong>Docker</strong>, aplicando esses conhecimentos no trabalho e em projetos pessoais. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+<p align="left">
+  Quer conhecer mais sobre meu trabalho? <a href="https://www.diegoportella.dev/" target="_blank">Confira meu portfólio</a> e vamos nos conectar! 🤝
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/diegoportella26/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_diegoportella_/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<br clear="right">
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+## ⭐️ &nbsp;GitHub Stats
 
-**Back-end & Cloud**
-<br>
-<a href="https://github.com/diegovitorportella">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,aws" alt="Back-end e Cloud" />
-</a>
+<p align="center">
+  <a href="https://github.com/diegovitorportella" target="_blank" rel="noopener noreferrer">
+    <img
+      width="49%"
+      src="https://helio-github-stats.vercel.app/api/top-langs?username=diegovitorportella&layout=compact&stats_format=percentages&title_color=0077B5&text_color=FFFFFF&bg_color=000000&border_color=0077B5&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=html%2Ccss%2Cdart&langs_count=8"
+      alt="Linguagens mais usadas"
+    />
+  </a>
 
-<br>
-
-**Ferramentas & DevOps**
-<br>
-<a href="https://github.com/diegovitorportella">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Ferramentas" />
-</a>
-
----
-
-### 🔭 O que estou construindo e estudando
-* 🏗️ **No trabalho:** Atuando com arquitetura **NestJS** (Services, Controllers, DTOs), comunicação assíncrona com **Amazon SQS** e conteinerização com **Docker**.
-* 🌱 **EcoScore Scanner:** Aplicação web full-stack voltada para sustentabilidade e rastreamento de produtos (alinhado ao ODS 12).
-* 🍽️ **Sistema para Restaurantes:** Desenvolvimento de interface e modelagem de dados JSON focado no painel **Modo Garçom**.
-* 💼 **CRM Customizado:** Desenvolvimento e manutenção de um sistema de CRM completo entregue para um cliente real.
-* 📚 **Fundamentos:** Aprofundando em Algoritmos e Estruturas de Dados II (Heapsort, Pilhas, Listas Encadeadas) e modelagem de arquitetura com o modelo C4.
+  <a href="https://github.com/diegovitorportella" target="_blank" rel="noopener noreferrer">
+    <img
+      width="49%"
+      src="https://streak-stats.demolab.com/?user=diegovitorportella&background=000000&border=0077B5&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B5&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&card_width=466&card_height=194"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 ---
 
-### 📫 Como me encontrar
+## Tecnologias e linguagens 💻
 
-<a href="https://www.linkedin.com/in/diegoportella26/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/_diegoportella_/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![Linguagens](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://github.com/diegovitorportella)
 
-<br><br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+### 🚀 Frameworks e bibliotecas
+
+[![Frameworks e bibliotecas](https://skillicons.dev/icons?i=nodejs,express,nest,spring,angular,next,tailwind,jest)](https://github.com/diegovitorportella)
+
+### 🛠️ Ferramentas de desenvolvimento
+
+[![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=postgres,aws,docker,git,github,npm,postman,figma,vercel,vscode)](https://github.com/diegovitorportella)
+
+<p align="center">
+  <sub>Ilustração por <a href="https://storyset.com/" target="_blank">Storyset</a></sub>
+</p>
