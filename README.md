@@ -20,7 +20,9 @@
 - 📚 Aprofundando em front-end, microsserviços e arquitetura de software
 - 📍 Belo Horizonte, MG
 
-<img src="./assets/code-typing-bro.png" alt="Ilustração de uma pessoa digitando código" width="300px" align="right">
+<p align="center">
+  <img src="./assets/code-typing-bro.png" alt="Ilustração de uma pessoa digitando código" width="300px">
+</p>
 
 <p align="left">
   No dia a dia, uso <strong>NestJS</strong> no back-end e <strong>Angular</strong> no front-end. Também venho explorando tecnologias como <strong>Next.js</strong>, <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>AWS</strong> e <strong>Docker</strong>, aplicando esses conhecimentos no trabalho, faculdade e em projetos pessoais. <br><br>
@@ -37,8 +39,6 @@
   <a href="https://www.instagram.com/_diegoportella_/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
-<br clear="right">
 
 ---
 
